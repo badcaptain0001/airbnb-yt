@@ -2,7 +2,7 @@ import Image from "next/image";
 function SmallCard({ img, location, distance }) {
   return (
     <div
-      className="flex items-centerm-2
+      className="flex items-center m-2
       mt-5
       space-x-4
       rounded-xl
